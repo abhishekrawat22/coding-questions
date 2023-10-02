@@ -1,2 +1,2 @@
-# coding-questions
-Coding questions that are usually asked in the interviews. These solutions are JavaScript focused.
+# Snake Pattern
+Given an n x n matrix. In the given matrix, you have to print the elements of the matrix in the snake pattern
